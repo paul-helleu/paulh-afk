@@ -9,4 +9,4 @@
 
 > I put the majority of my projects in public.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)
