@@ -8,3 +8,5 @@
 #### I will make: cookbook website using ReactJS and NodeJS restapi, with JWT auth & OAuth (...)
 
 > I put the majority of my projects in public.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)]
