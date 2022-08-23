@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)
+
 # Learning web & software dev
 ## Languages I know: HTML, CSS, JS, ReactJS, NodeJS, Dart & Python.
 
@@ -8,5 +10,3 @@
 #### I will make: cookbook website using ReactJS and NodeJS restapi, with JWT auth & OAuth (...)
 
 > I put the majority of my projects in public.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)
