@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulh-afk&theme=nord)
-
 # Learning web & software dev
 ## Languages I know: HTML, CSS, JS, ReactJS, NodeJS, Dart & Python.
 
