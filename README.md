@@ -7,4 +7,4 @@
 #### I'm interested by Web3, blockchain technology, DApps and Hacking.
 #### I will make: cookbook website using ReactJS and NodeJS restapi, with JWT auth & OAuth (...)
 
-> I put the majority of my projects in public.
+> I put the majority of my projects in public, you are free to be inspired or to contribute to these projects
